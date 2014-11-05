@@ -239,6 +239,28 @@ a:focus {
     white-space: nowrap;
 }
 
+
+.slide h1 {
+	display: block;
+	font-size: 50px;
+	line-height: 72px;
+	margin-bottom: 50px;
+}
+
+.slide li {
+	list-style-type: initial;
+}
+
+.slide li.outcome {
+	list-style-type: none;
+}
+
+.slide img {
+	width: 485px;
+	margin-left: 140px;
+	margin-top: 13px;
+}
+
 /*
     And now we start to style each step separately.
 
